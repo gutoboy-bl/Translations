@@ -1,0 +1,9 @@
+    pt:
+    site: "Site"
+    vote: "Vote!"
+    suporte: "Suporte"
+    lista_de_emojis: "Lista de Emojis"
+    lista_de_emojis: "Meus Emojis"
+
+    vote_top_gg: "Votar em [top.gg](https://top.gg/bot/559426966151757824/vote) faz o bot se tornar melhor, aumentando sua visibilidade e permitindo mais emojis quando ele entra em um servidor."
+    vote_bfd: "Votar em [Bots for Discord](https://botsfordiscord.com/bot/559426966151757824/vote) ajuda a visibilidade do bot. Com cada server que o bot entra,, a database de emojis se torna maior.
